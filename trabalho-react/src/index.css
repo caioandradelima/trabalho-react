@@ -1,0 +1,23 @@
+
+  
+
+button{
+  display: flex;
+  text-align :center;
+  position:relative;
+  
+  width: 40px;
+  font-size: 15px;
+  height: 40px;
+}
+
+.buttonigual{
+  width: 40px;
+  font-size: 15px;
+  height: 80px;
+}
+.button0{
+  width: 83px;
+  font-size: 15px;
+  height: 40px;
+}
